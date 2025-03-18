@@ -2,8 +2,6 @@
 
 Welcome to my Skittle Sorter, a project I created back in high school with the goal of making candy-sorting more accessible for colorblind individuals. Inspired by various community projects (including one from Hackaday), this device uses an Arduino Nano, a TCS34725 RGB sensor, and two servo motors to automatically detect and sort Skittles by color.
 
-# Motivation & Accessibility
-
 # Colorblind Accessibility
 The project helps people who are colorblind quickly separate Skittles. By automating the color-detection step, everyone can easily enjoy color-coded candy without guesswork.
 
