@@ -22,13 +22,13 @@ Two servo motors rotate test tubes into position, releasing each Skittle into th
 Because color recognition is fully automated, this design removes the need to visually distinguish subtle color differences—helpful for those with visual impairments.
 
 # Hardware & Assembly
-Microcontroller: Arduino Nano (or compatible board)
-Color Sensor: TCS34725
-Servo Motors: 2× MG90S
-LED: Common-cathode RGB LED
-Power: 9–12V supply + buck converter for stable 5V output
-3D-Printed Parts: Main enclosure, gears, brackets
-Misc.: Screws, wires, test tubes, etc.
+1. Microcontroller: Arduino Nano (or compatible board)
+2. Color Sensor: TCS34725
+3. Servo Motors: 2× MG90S
+4. LED: Common-cathode RGB LED
+5. Power: 9–12V supply + buck converter for stable 5V output
+6. 3D-Printed Parts: Main enclosure, gears, brackets
+7. Misc.: Screws, wires, test tubes, etc.
 
 # Customization
 1. Color Thresholds
